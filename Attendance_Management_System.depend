@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1592583222 source:c:\users\kavin\google drive\ds 19-24\sem 2\object oriented programming\package\attendance_management_system\attendances_implementations.cpp
+	<bits/stdc++.h>
+	"attendances.h"
+
+1592583159 c:\users\kavin\google drive\ds 19-24\sem 2\object oriented programming\package\attendance_management_system\attendances.h
+	<bits/stdc++.h>
+
+1592807294 source:c:\users\kavin\google drive\ds 19-24\sem 2\object oriented programming\package\attendance_management_system\student_implementations.cpp
+	<bits/stdc++.h>
+	"student.h"
+
+1592668217 c:\users\kavin\google drive\ds 19-24\sem 2\object oriented programming\package\attendance_management_system\student.h
+	<bits/stdc++.h>
+	"attendances.h"
+
+1592719390 source:c:\users\kavin\google drive\ds 19-24\sem 2\object oriented programming\package\attendance_management_system\admin_implementations.cpp
+	<bits/stdc++.h>
+	"admin.h"
+	"staff.h"
+
+1592668175 c:\users\kavin\google drive\ds 19-24\sem 2\object oriented programming\package\attendance_management_system\admin.h
+	<bits/stdc++.h>
+	"staff.h"
+	"student.h"
+
+1592668204 c:\users\kavin\google drive\ds 19-24\sem 2\object oriented programming\package\attendance_management_system\staff.h
+	<bits/stdc++.h>
+	"student.h"
+
+1592719165 source:c:\users\kavin\google drive\ds 19-24\sem 2\object oriented programming\package\attendance_management_system\main.cpp
+	<iostream>
+	<vector>
+	<process.h>
+	"admin.h"
+	<stdio.h>
+
+1592670391 source:c:\users\kavin\google drive\ds 19-24\sem 2\object oriented programming\package\attendance_management_system\staff_implementations.cpp
+	<bits/stdc++.h>
+	"staff.h"
+
