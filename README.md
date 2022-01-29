@@ -1,4 +1,4 @@
-# Attendance-Management-System
+# Attendance-Management-System (Attendance Tracker)
 An application to store and manage student attendance
 
 The attendance record is part of each student instance and can be edited only by teachers.
